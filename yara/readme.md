@@ -1,0 +1,1 @@
+yara configuration and rules directory

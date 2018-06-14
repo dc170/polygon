@@ -1,0 +1,1 @@
+Suricata configuration and rules directory
